@@ -16,7 +16,7 @@ A simple portfolio built with React.
 
 Get the code
 
-<pre>git clone h</pre>
+<pre>git clone https://github.com/AmalFillah02/amalfillah-portfolio.git</pre>
 
 Install required dependencies
 
