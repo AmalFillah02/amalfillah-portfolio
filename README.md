@@ -2,7 +2,7 @@
 
 A simple portfolio built with React.
 
-### [live preview]()
+### [live preview](https://amalfillah.vercel.app/)
 
 ### Features
 
