@@ -1,5 +1,5 @@
 .site__header {
-    background-color: #0c0c0c;
+    background: var(--primary-color);
     top: 10px;
     padding-left: 10px;
     padding-right: 10px;
