@@ -101,6 +101,11 @@ const dataportfolio = [
     link: "https://ar-museum-kartini-jepara.id.uptodown.com/android",
   },
   {
+    img: "https://i.imgur.com/4hYGQ4n.png",
+    description: "Sistem PPDB Zonasi MTs Darul Muqodas Pati",
+    link: "https://github.com/AmalFillah02/PPDB-system",
+  },
+  {
     img: "https://i.imgur.com/F2wJVeB.jpeg",
     description: "Website Anugrah Furniture",
     link: "https://amalfillah02.github.io/anugrah-furniture/",
