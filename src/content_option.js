@@ -35,7 +35,7 @@ const worktimeline = [
   {
     jobtitle: "IT Staff",
     where: "PT. Great Golden Indonesia",
-    date: "April - May 2025",
+    date: "2025",
   },
   {
     jobtitle: "Freelance Web Developer",
@@ -101,6 +101,11 @@ const dataportfolio = [
     link: "https://ar-museum-kartini-jepara.id.uptodown.com/android",
   },
   {
+    img: "https://i.imgur.com/cEbCA8Z.png",
+    description: "Javara Cinema",
+    link: "https://github.com/AmalFillah02/javara-cinema/",
+  },
+  {
     img: "https://i.imgur.com/4hYGQ4n.png",
     description: "Sistem PPDB Zonasi MTs Darul Muqodas Pati",
     link: "https://github.com/AmalFillah02/PPDB-system",
@@ -111,7 +116,7 @@ const dataportfolio = [
     link: "https://amalfillah02.github.io/anugrah-furniture/",
   },
   {
-    img: "https://i.imgur.com/5gAVMsK.jpeg",
+    img: "https://i.imgur.com/Fs7oiLH.png",
     description: "Aplikasi Jadwal Kegiatan Sehari-hari",
     link: "https://amalfillah02.github.io/app-kegiatan/",
   },
@@ -121,7 +126,7 @@ const dataportfolio = [
     link: "https://github.com/AmalFillah02/pengelolaan-buku",
   },
   {
-    img: "https://i.imgur.com/Q2DiyY7.jpeg",
+    img: "https://i.imgur.com/49Pwe4J.png",
     description: "Sistem Aplikasi Dashboard Harga Crypto Realtime",
     link: "https://github.com/AmalFillah02/dashboard-harga-crypto",
   },
