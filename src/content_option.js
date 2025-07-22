@@ -103,7 +103,7 @@ const dataportfolio = [
   {
     img: "https://i.imgur.com/cEbCA8Z.png",
     description: "Javara Cinema",
-    link: "https://github.com/AmalFillah02/javara-cinema/",
+    link: "https://github.com/AmalFillah02/javara-cinema",
   },
   {
     img: "https://i.imgur.com/hCaMnyQ.png",
